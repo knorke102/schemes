@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T14:55:53.032Z" agent="5.0 (Windows)" etag="96etd2J8D3227KErinmf" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:56:07.429Z" agent="5.0 (Windows)" etag="jAsKa4V3ZHMdXFnj_-NS" version="16.6.4" type="github" pages="4">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -270,10 +270,10 @@
           <mxGeometry x="857.5" y="512.5" width="78" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fiAUjkTqOdYDBFI8Npc3-11" value="HW-100-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
-          <mxGeometry x="394" y="360" width="70" height="30" as="geometry" />
+          <mxGeometry x="483.5" y="424" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fiAUjkTqOdYDBFI8Npc3-12" value="HW-100-2" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
-          <mxGeometry x="727.5" y="360" width="70" height="30" as="geometry" />
+          <mxGeometry x="650" y="424" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fiAUjkTqOdYDBFI8Npc3-13" value="Admin-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
           <mxGeometry x="170" y="424" width="70" height="30" as="geometry" />
