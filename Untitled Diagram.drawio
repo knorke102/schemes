@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T14:51:50.256Z" agent="5.0 (Windows)" etag="2rAmpitXB2S8hwG0rry_" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:51:55.574Z" agent="5.0 (Windows)" etag="0JJOzYaDwIz870e6rH2M" version="16.6.4" type="github" pages="4">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -241,9 +241,6 @@
         <mxCell id="0YtIoj3sgkGauz8-iPLv-1" parent="0YtIoj3sgkGauz8-iPLv-0" />
         <mxCell id="5_3gxmzGz3pzXX2HERfJ-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
           <mxGeometry x="515" y="409" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5_3gxmzGz3pzXX2HERfJ-5" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
-          <mxGeometry x="480.5" y="55" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fiAUjkTqOdYDBFI8Npc3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="0YtIoj3sgkGauz8-iPLv-1" source="fiAUjkTqOdYDBFI8Npc3-2" target="fiAUjkTqOdYDBFI8Npc3-8">
           <mxGeometry relative="1" as="geometry" />
