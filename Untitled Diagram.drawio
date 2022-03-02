@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T14:43:26.078Z" agent="5.0 (Windows)" etag="z6mLIeJ2PZpl9gBLgaBv" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:45:38.143Z" agent="5.0 (Windows)" etag="mzV2cAEbMw8FE4ZVSi20" version="16.6.4" type="github" pages="3">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -212,6 +212,24 @@
         </mxCell>
         <mxCell id="j87s_nZdMgKg8JxU2f7b-7" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
           <mxGeometry x="760" y="432.5" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-14" value="HW-100-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="494" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-15" value="HW-100-2" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="630" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-16" value="Admin-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="270" y="344" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-17" value="Admin-2" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="850" y="344" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-18" value="Open-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="270" y="452.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j87s_nZdMgKg8JxU2f7b-20" value="Open-2" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="j87s_nZdMgKg8JxU2f7b-1">
+          <mxGeometry x="850" y="452.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
