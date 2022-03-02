@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T06:22:14.055Z" agent="5.0 (Windows)" etag="bUA4nYLChe2st-ILR7pk" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T06:22:19.634Z" agent="5.0 (Windows)" etag="iV62V6Ha_znayzLultLu" version="16.6.4" type="github" pages="2">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Page-1">
     <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -78,6 +78,14 @@
         <mxCell id="quz_mAogl2ATOVMqh3L_-6" value="Прокси" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="584.5" width="80" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="a12HvacWpcWroGUS6SjS" name="Page-2">
+    <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7Rbw-WljW8sgp58RC1WJ-0" />
+        <mxCell id="7Rbw-WljW8sgp58RC1WJ-1" parent="7Rbw-WljW8sgp58RC1WJ-0" />
       </root>
     </mxGraphModel>
   </diagram>
