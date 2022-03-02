@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T14:58:13.705Z" agent="5.0 (Windows)" etag="eM9lL71PBwNM5ZGLmmnJ" version="16.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:58:46.344Z" agent="5.0 (Windows)" etag="EMV_T8rodro_iocBqHNH" version="16.6.4" type="github" pages="4">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -316,6 +316,15 @@
         </mxCell>
         <mxCell id="qacIMpz1TscXgLyvsljO-9" value="Маршрутизатор" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
           <mxGeometry x="240" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qacIMpz1TscXgLyvsljO-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="0YtIoj3sgkGauz8-iPLv-1" source="qacIMpz1TscXgLyvsljO-20" target="qacIMpz1TscXgLyvsljO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qacIMpz1TscXgLyvsljO-20" value="" style="shape=mxgraph.cisco.security.ios_firewall;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
+          <mxGeometry x="394" y="170" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qacIMpz1TscXgLyvsljO-21" value="Межсетевой экран" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="0YtIoj3sgkGauz8-iPLv-1">
+          <mxGeometry x="220" y="190" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
