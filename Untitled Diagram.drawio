@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T06:13:12.787Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="FUywgNZaMdddv9nI2I9Z" version="17.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-13T06:16:23.846Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="8YYUGBT2xkUJG_pvptnj" version="17.1.0" type="github" pages="5">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -359,19 +359,19 @@
           <mxGeometry x="160" y="344" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FpdqXsC5t3RZhjKYDhta-4" value="" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
-          <mxGeometry x="600" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FpdqXsC5t3RZhjKYDhta-5" value="cs.ukrtb.tu" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
-          <mxGeometry x="700" y="66" width="100" height="30" as="geometry" />
+          <mxGeometry x="620" y="111" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OOE-i3REO7NZ87Ktyf32-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="sSV4BTQisg8SLOh1JQCF-1" source="OOE-i3REO7NZ87Ktyf32-1" target="F2Igsijx2OCmjPLi-KTa-0">
+        <mxCell id="OOE-i3REO7NZ87Ktyf32-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="sSV4BTQisg8SLOh1JQCF-1" source="OOE-i3REO7NZ87Ktyf32-1" target="F2Igsijx2OCmjPLi-KTa-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OOE-i3REO7NZ87Ktyf32-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
           <mxGeometry x="160" y="90" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OOE-i3REO7NZ87Ktyf32-2" value="Белый IP" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
-          <mxGeometry x="120" y="60" width="90" height="30" as="geometry" />
+          <mxGeometry x="70" y="110" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
