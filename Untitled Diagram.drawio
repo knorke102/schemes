@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T06:09:06.416Z" agent="5.0 (Windows)" etag="RspkJATJfoirx7-vnJGc" version="17.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-14T06:10:28.655Z" agent="5.0 (Windows)" etag="SzgFKyX6hkTAEfRNWPzN" version="17.1.2" type="github" pages="5">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -456,6 +456,15 @@
         </mxCell>
         <mxCell id="5i-R5jwQqVUsZMnBIygB-81" value="172.16.1.2" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
           <mxGeometry x="268" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5i-R5jwQqVUsZMnBIygB-96" value="&lt;div&gt;92.50.136.178&lt;/div&gt;&lt;div&gt;255.255.255.252&lt;/div&gt;&lt;div&gt;92.50.136.177&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
+          <mxGeometry x="80" y="15" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5i-R5jwQqVUsZMnBIygB-97" value="172.16.0.1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
+          <mxGeometry x="48" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5i-R5jwQqVUsZMnBIygB-98" value="172.16.0.2" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="sSV4BTQisg8SLOh1JQCF-1">
+          <mxGeometry x="48" y="240" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
