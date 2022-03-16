@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T01:21:42.981Z" agent="5.0 (Windows)" etag="trRoH4yDokuVDCeCplCx" version="17.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-16T01:22:08.220Z" agent="5.0 (Windows)" etag="vEHcy_wGwbER602cMtfB" version="17.1.3" type="github" pages="6">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -490,58 +490,58 @@
         <mxCell id="3AY6vLjtcTXczfh1wmjY-0" />
         <mxCell id="3AY6vLjtcTXczfh1wmjY-1" parent="3AY6vLjtcTXczfh1wmjY-0" />
         <mxCell id="3AY6vLjtcTXczfh1wmjY-2" value="Директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-3" value="Отдел по учебной работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="40" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-4" value="Учебная часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="40" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-5" value="Библиотека" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="40" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-6" value="Отдел по метадической работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-7" value="Отдел по развития и иноваций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="360" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-8" value="Отдел дополниительного образования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-9" value="5000 мастерских" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-10" value="Специализированный центр компетенции Ворлдскиллс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="360" y="480" width="130" height="80" as="geometry" />
+          <mxGeometry x="360" y="520" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-11" value="Отдел по учебно-производственной работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="520" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-12" value="Учебно-вычислительный центр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-13" value="Служба содействия трудоустройства выпускников" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="520" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-14" value="Учебная пожарная часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="520" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-15" value="Отдел по воспитательной работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="680" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-16" value="Отдел кадров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="840" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="840" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-17" value="Отдел безопасности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="1000" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="1000" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-18" value="Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="1160" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="1160" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-19" value="Административно-хозяйственная часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="1320" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="1320" y="160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
