@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T01:20:34.061Z" agent="5.0 (Windows)" etag="WRzXdX-Vf642_9Yme0ys" version="17.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-16T01:21:06.380Z" agent="5.0 (Windows)" etag="a0P9bqqSosapepLjtTpR" version="17.1.3" type="github" pages="6">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Схема перехвата трафика">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -517,16 +517,16 @@
           <mxGeometry x="360" y="480" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-11" value="Отдел по учебно-производственной работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="570" y="120" width="110" height="50" as="geometry" />
+          <mxGeometry x="520" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-12" value="Учебно-вычислительный центр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="570" y="190" width="110" height="50" as="geometry" />
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-13" value="Служба содействия трудоустройства выпускников" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="570" y="280" width="110" height="60" as="geometry" />
+          <mxGeometry x="520" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-14" value="Учебная пожарная часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
-          <mxGeometry x="570" y="360" width="110" height="50" as="geometry" />
+          <mxGeometry x="520" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-15" value="Отдел по воспитательной работе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AY6vLjtcTXczfh1wmjY-1">
           <mxGeometry x="730" y="120" width="110" height="50" as="geometry" />
