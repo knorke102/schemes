@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:50:19.277Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="BEkcrPQnS-DcnNAn6nI6" version="17.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:51:11.460Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="1QQILAYxUpqMYP5wOYgp" version="17.1.2" type="github" pages="7">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль 1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -465,7 +465,7 @@
         <mxCell id="s6C_KNIls3bKWNV23wca-1" value="Главный Директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
           <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s6C_KNIls3bKWNV23wca-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="yRuKNfGEmVPEoSWnVKwx-1" source="s6C_KNIls3bKWNV23wca-28" target="s6C_KNIls3bKWNV23wca-42">
+        <mxCell id="s6C_KNIls3bKWNV23wca-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="yRuKNfGEmVPEoSWnVKwx-1" source="s6C_KNIls3bKWNV23wca-28" target="s6C_KNIls3bKWNV23wca-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s6C_KNIls3bKWNV23wca-28" value="Тендерный отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
@@ -477,7 +477,7 @@
         <mxCell id="s6C_KNIls3bKWNV23wca-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="yRuKNfGEmVPEoSWnVKwx-1" source="s6C_KNIls3bKWNV23wca-30" target="s6C_KNIls3bKWNV23wca-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s6C_KNIls3bKWNV23wca-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="yRuKNfGEmVPEoSWnVKwx-1" source="s6C_KNIls3bKWNV23wca-30" target="s6C_KNIls3bKWNV23wca-28">
+        <mxCell id="s6C_KNIls3bKWNV23wca-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="yRuKNfGEmVPEoSWnVKwx-1" source="s6C_KNIls3bKWNV23wca-30" target="s6C_KNIls3bKWNV23wca-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s6C_KNIls3bKWNV23wca-30" value="Отдел менеджеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
