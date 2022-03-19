@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:54:07.515Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="wn5BF1iz-iC4AhozBid4" version="17.1.2" type="github" pages="7">
-  <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль 1">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:55:27.548Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="iLDTCJs5r7SRjvPWh52q" version="17.1.2" type="github" pages="7">
+  <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -81,7 +81,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="a12HvacWpcWroGUS6SjS" name="Эмиль 2">
+  <diagram id="a12HvacWpcWroGUS6SjS" name="Эмиль (Общая схема сети колледжа)">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="7Rbw-WljW8sgp58RC1WJ-0" />
@@ -175,7 +175,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5Gj4tNGZxr9KVBb04j3w" name="Эмиль 3">
+  <diagram id="5Gj4tNGZxr9KVBb04j3w" name="Эмиль (Организационная структура)">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-0" />
