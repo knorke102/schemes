@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T10:25:02.554Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="LZObJfQPm5uj_DeJGWYU" version="17.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-19T10:25:07.513Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="Hc2Dr-Nll9mleJIvaSvX" version="17.1.2" type="github" pages="7">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="2370" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -537,7 +537,7 @@
           <mxGeometry x="-879" y="527" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FpdqXsC5t3RZhjKYDhta-1" value="ESXI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" parent="sSV4BTQisg8SLOh1JQCF-1" vertex="1">
-          <mxGeometry x="-959" y="551" width="60" height="30" as="geometry" />
+          <mxGeometry x="-959" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OOE-i3REO7NZ87Ktyf32-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="sSV4BTQisg8SLOh1JQCF-1" vertex="1">
           <mxGeometry x="-919" y="337" width="160" height="70" as="geometry" />
