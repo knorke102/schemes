@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:26:17.379Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="_5qbwrDH_6VfPHMts4hf" version="17.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:42:53.500Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="kQTWi3c3LifvT8wIrRqI" version="17.1.2" type="github" pages="7">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль 1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -488,6 +488,12 @@
         </mxCell>
         <mxCell id="s6C_KNIls3bKWNV23wca-36" value="Отдел тендеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
           <mxGeometry x="790" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s6C_KNIls3bKWNV23wca-39" value="Служба безопасности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
+          <mxGeometry x="480" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s6C_KNIls3bKWNV23wca-40" value="Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yRuKNfGEmVPEoSWnVKwx-1">
+          <mxGeometry x="800" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
