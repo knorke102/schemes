@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T10:40:43.456Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.812 Yowser/2.5 Safari/537.36" etag="yKDLqu5CaJwCKJNK21IA" version="17.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-18T07:21:33.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PZK9IiKaDz9GGxvnRmlL" version="17.4.5" type="github" pages="8">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
-    <mxGraphModel dx="2370" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uev6CSIMwTCGhdHp9PtW" name="Даша (Общая схема своей сети)">
-    <mxGraphModel dx="2370" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j87s_nZdMgKg8JxU2f7b-0" />
         <mxCell id="j87s_nZdMgKg8JxU2f7b-1" parent="j87s_nZdMgKg8JxU2f7b-0" />
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jK2m9Ehcm7ovO-tlvEw3" name="ESXI">
-    <mxGraphModel dx="3685" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sSV4BTQisg8SLOh1JQCF-0" />
         <mxCell id="sSV4BTQisg8SLOh1JQCF-1" parent="sSV4BTQisg8SLOh1JQCF-0" />
@@ -659,6 +659,14 @@
         <mxCell id="6_e3Kmeol1hziwmieqqk-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="sSV4BTQisg8SLOh1JQCF-1" vertex="1">
           <mxGeometry x="-1079" y="525.5" width="80" height="81" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dLYP0-rPlwCI10PwAYs0" name="Page-8">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
