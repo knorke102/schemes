@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T00:15:41.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="uRxBeJtdW6EEFtRQ575E" version="18.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-19T00:15:49.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="WaFp1wWdYfC1sjNLQo7M" version="18.0.7" type="github" pages="9">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -805,13 +805,13 @@
           <mxGeometry x="470" y="460" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-34" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-36" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="533" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-39" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="414" y="295" width="170" height="50" as="geometry" />
+          <mxGeometry x="374" y="305" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
