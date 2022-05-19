@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T00:19:49.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3lEhPjUJVFfHGGkjOw7x" version="18.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-19T00:21:51.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="unp5gc9XGODK_6HHRo62" version="18.0.7" type="github" pages="9">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -792,6 +792,15 @@
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-44" value="Рабочая станция &lt;br&gt;с беспроводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="80" y="419.28999999999996" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-45" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="399.99999999999994" width="114.29" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-46" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="34.29" height="34.29" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-47" value="Рабочая станция &lt;br&gt;для перехвата трафика" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
