@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T00:24:26.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="sFdlfM_-sKLIRBAuSC2d" version="18.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-19T00:25:10.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="qvcTY5exp86qE13t1MAP" version="18.0.7" type="github" pages="10">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a12HvacWpcWroGUS6SjS" name="Эмиль (Общая схема сети колледжа)">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="7Rbw-WljW8sgp58RC1WJ-0" />
         <mxCell id="7Rbw-WljW8sgp58RC1WJ-1" parent="7Rbw-WljW8sgp58RC1WJ-0" />
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Gj4tNGZxr9KVBb04j3w" name="Эмиль (Организационная структура)">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-0" />
         <mxCell id="3AY6vLjtcTXczfh1wmjY-1" parent="3AY6vLjtcTXczfh1wmjY-0" />
@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uev6CSIMwTCGhdHp9PtW" name="Даша (Общая схема своей сети)">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j87s_nZdMgKg8JxU2f7b-0" />
         <mxCell id="j87s_nZdMgKg8JxU2f7b-1" parent="j87s_nZdMgKg8JxU2f7b-0" />
@@ -348,7 +348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="49XNDo4J8DCX2bLL6kve" name="Даша (Общая схема сети колледжа)">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0YtIoj3sgkGauz8-iPLv-0" />
         <mxCell id="0YtIoj3sgkGauz8-iPLv-1" parent="0YtIoj3sgkGauz8-iPLv-0" />
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QLRuyCQtodLpKR7k9S7_" name="Даша (Организационная структура)">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yRuKNfGEmVPEoSWnVKwx-0" />
         <mxCell id="yRuKNfGEmVPEoSWnVKwx-1" parent="yRuKNfGEmVPEoSWnVKwx-0" />
@@ -516,8 +516,99 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="K1-V7I9GS-vw1M21oOp_" name="Дияна (Общая схема сети ГБПОУ УКРТБ)">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YJ5qFFOKmg796NPemlOH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.83;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-9" target="YJ5qFFOKmg796NPemlOH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-9" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.14" y="524.29" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-21" target="YJ5qFFOKmg796NPemlOH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-21" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-22" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-34" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-36" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="404.28999999999996" width="114.29" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-39" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="295" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-41" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="34.29" height="34.29" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-43" value="Рабочая станция &lt;br&gt;с&amp;nbsp;проводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="535" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-44" value="Рабочая станция &lt;br&gt;с беспроводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="419.28999999999996" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9I5BeNqFRtAcXC2T48dr" name="Дияна (Схема перехвата трафика)">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.83;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Gk-9HAWjuESRjlWIXpAd-2" target="Gk-9HAWjuESRjlWIXpAd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-2" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.14" y="524.29" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Gk-9HAWjuESRjlWIXpAd-4" target="Gk-9HAWjuESRjlWIXpAd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-5" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-6" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-7" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="404.28999999999996" width="114.29" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-8" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="295" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-9" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="34.29" height="34.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-10" value="Рабочая станция &lt;br&gt;с&amp;nbsp;проводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="535" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-11" value="Рабочая станция &lt;br&gt;с беспроводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="419.28999999999996" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-12" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="399.99999999999994" width="114.29" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-13" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=-90;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="34.29" height="34.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk-9HAWjuESRjlWIXpAd-14" value="Рабочая станция &lt;br&gt;для перехвата трафика" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="jK2m9Ehcm7ovO-tlvEw3" name="ESXI">
-    <mxGraphModel dx="3327" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sSV4BTQisg8SLOh1JQCF-0" />
         <mxCell id="sSV4BTQisg8SLOh1JQCF-1" parent="sSV4BTQisg8SLOh1JQCF-0" />
@@ -663,7 +754,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dLYP0-rPlwCI10PwAYs0" name="Page-8">
-    <mxGraphModel dx="3076" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="3076" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,97 +842,6 @@
         </mxCell>
         <mxCell id="y6tJMkwTEh8AYYQmCw_p-70" value="&lt;font style=&quot;font-size: 40px&quot;&gt;Domen LAN&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=19;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-754.5" y="970" width="240" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="K1-V7I9GS-vw1M21oOp_" name="Дияна (Общая схема сети ГБПОУ УКРТБ)">
-    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="YJ5qFFOKmg796NPemlOH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.83;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-9" target="YJ5qFFOKmg796NPemlOH-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-9" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292.14" y="524.29" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-21" target="YJ5qFFOKmg796NPemlOH-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-21" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-22" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-34" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-36" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="404.28999999999996" width="114.29" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-39" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="295" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-41" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="34.29" height="34.29" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-43" value="Рабочая станция &lt;br&gt;с&amp;nbsp;проводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="535" width="180" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YJ5qFFOKmg796NPemlOH-44" value="Рабочая станция &lt;br&gt;с беспроводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="419.28999999999996" width="200" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="9I5BeNqFRtAcXC2T48dr" name="Дияна (Схема перехвата трафика)">
-    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.83;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Gk-9HAWjuESRjlWIXpAd-2" target="Gk-9HAWjuESRjlWIXpAd-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-2" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shadow=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292.14" y="524.29" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Gk-9HAWjuESRjlWIXpAd-4" target="Gk-9HAWjuESRjlWIXpAd-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-5" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-6" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-7" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="404.28999999999996" width="114.29" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-8" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="534" y="295" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-9" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="34.29" height="34.29" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-10" value="Рабочая станция &lt;br&gt;с&amp;nbsp;проводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="535" width="180" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-11" value="Рабочая станция &lt;br&gt;с беспроводной сетью" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="419.28999999999996" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-12" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="399.99999999999994" width="114.29" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-13" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=-90;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="34.29" height="34.29" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk-9HAWjuESRjlWIXpAd-14" value="Рабочая станция &lt;br&gt;для перехвата трафика" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="400" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
