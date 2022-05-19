@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T08:02:36.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ElJxvAdxuujb4hNfYFbw" version="18.0.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-05-19T08:02:59.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="W9vt8hrnvGFBj9RuiPu-" version="18.0.7" type="github" pages="12">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1068,8 +1068,8 @@
         <mxCell id="C77573iMSjVXONxVF3Ey-29" value="Рабочая станция преподавателя" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="501" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C77573iMSjVXONxVF3Ey-30" value="Рабочие станции студентов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="780" y="335" width="250" height="30" as="geometry" />
+        <mxCell id="C77573iMSjVXONxVF3Ey-32" value="Рабочие станции студентов &lt;br&gt;Secret Net Studio Client" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="790" y="340" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
