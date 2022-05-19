@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T07:54:40.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="And7Kj2b93WBnToO9DV7" version="18.0.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-19T07:55:06.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="B5SfODs106pNzEzTwu18" version="18.0.7" type="github" pages="11">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -922,7 +922,7 @@
           <mxGeometry x="130" y="242.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nn5RQlBrx_UWvgxj7Ebh-21" value="Рабочие станции студентов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="250" height="30" as="geometry" />
+          <mxGeometry x="480" y="40" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nn5RQlBrx_UWvgxj7Ebh-22" value="Контролер&lt;br&gt;Домена" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="335" width="110" height="50" as="geometry" />
@@ -953,6 +953,9 @@
         </mxCell>
         <mxCell id="OCdZ4c_l0bAu0m2okaV4-22" value="Рабочая станция преподавателя" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="501" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OCdZ4c_l0bAu0m2okaV4-24" value="Рабочие станции студентов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="780" y="335" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
