@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T00:15:24.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="lnJuQniXO6GZqI4uwoWb" version="18.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-19T00:15:41.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="uRxBeJtdW6EEFtRQ575E" version="18.0.7" type="github" pages="9">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -784,11 +784,14 @@
         <mxCell id="YJ5qFFOKmg796NPemlOH-16" value="Open-1" style="whiteSpace=wrap;html=1;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="652.5" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YJ5qFFOKmg796NPemlOH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-21" target="YJ5qFFOKmg796NPemlOH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-21" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-22" value="Глобальная сеть интернет" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="240" height="30" as="geometry" />
+          <mxGeometry x="440" y="190" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YJ5qFFOKmg796NPemlOH-28">
           <mxGeometry relative="1" as="geometry">
@@ -808,7 +811,7 @@
           <mxGeometry x="150" y="533" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YJ5qFFOKmg796NPemlOH-39" value="Маршрутизатор с &lt;br&gt;поддержкой Wi-Fi" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="410" y="295" width="170" height="50" as="geometry" />
+          <mxGeometry x="414" y="295" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
