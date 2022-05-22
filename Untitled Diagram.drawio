@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T05:32:36.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="Zb5KRxDWVge9wVJawTBb" version="18.1.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-05-22T05:33:54.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="-_UxBCja8huylQdL6ugz" version="18.1.1" type="github" pages="13">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1052,6 +1052,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IDTqcx631BQzbEa24MIb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="aISYvlDNsQzBDdQJvqAK-3" target="IDTqcx631BQzbEa24MIb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aISYvlDNsQzBDdQJvqAK-3" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="90" height="45" as="geometry" />
         </mxCell>
@@ -1095,7 +1098,7 @@
           <mxGeometry x="670" y="439.99999999999994" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tyDRq_gen-5RkA5w20jk-1" value="Рабочая станция преподавателя" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="465" width="280" height="30" as="geometry" />
+          <mxGeometry x="480" y="530" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tyDRq_gen-5RkA5w20jk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1109,6 +1112,18 @@
               <mxPoint x="1200" y="640" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IDTqcx631BQzbEa24MIb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IDTqcx631BQzbEa24MIb-1" target="aISYvlDNsQzBDdQJvqAK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDTqcx631BQzbEa24MIb-1" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDTqcx631BQzbEa24MIb-2" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IDTqcx631BQzbEa24MIb-5" value="Сервера" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
