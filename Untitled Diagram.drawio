@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T16:34:46.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="6DCjMjFlv1n0obXo9Qvx" version="18.1.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-05-23T16:36:14.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="3HhbD4FbBikHiILPEOj9" version="18.1.1" type="github" pages="15">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1158,7 +1158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x4ZZpqSOV8TmcjcXQ8ll" name="308">
-    <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1275,13 +1275,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="az1BL_j5DGh5pGOqvzN_-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="160" height="70" as="geometry" />
+          <mxGeometry x="160" y="410" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="az1BL_j5DGh5pGOqvzN_-2" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="415" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="az1BL_j5DGh5pGOqvzN_-5" value="White ip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="az1BL_j5DGh5pGOqvzN_-8" value="VLAN 8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="730" width="50" height="30" as="geometry" />
@@ -1301,11 +1301,11 @@
         <mxCell id="az1BL_j5DGh5pGOqvzN_-13" value="VLAN 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="530" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="az1BL_j5DGh5pGOqvzN_-14" value="VLAN 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="az1BL_j5DGh5pGOqvzN_-14" value="VLAN 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="az1BL_j5DGh5pGOqvzN_-15" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="370" width="50" height="30" as="geometry" />
+        <mxCell id="az1BL_j5DGh5pGOqvzN_-15" value="172.16.0.1 VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="az1BL_j5DGh5pGOqvzN_-23" value="VLAN 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="450" width="60" height="30" as="geometry" />
