@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T23:04:59.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="RrM3_tWj6TzYmSjk-BJw" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-23T23:05:05.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="r_cjvN7USEU5cWmODCs4" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1720,7 +1720,7 @@
           <mxGeometry x="140" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tub7teVbrYojTSgn3kCz-1" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
