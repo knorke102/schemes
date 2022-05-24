@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T22:27:52.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="x8S9BZg53Qg7wxiJlKU8" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-23T22:29:09.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wreq82DLOH_oMCmLPHAS" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1609,37 +1609,40 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0oK83Jx_CrKbdP1iis7_" name="Demo 308">
-    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="160" height="100" as="geometry" />
+          <mxGeometry x="131" y="360" width="349" height="310" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0MnLnCfNHMBmKRLeDBoI-3" target="0MnLnCfNHMBmKRLeDBoI-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="559" y="410" />
-              <mxPoint x="529" y="410" />
+              <mxPoint x="210" y="410" />
+              <mxPoint x="180" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0MnLnCfNHMBmKRLeDBoI-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="319.9999999999999" as="targetPoint" />
+            <mxPoint x="371" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-3" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="479" y="370" width="160" height="30" as="geometry" />
+          <mxGeometry x="131" y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-6" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="415" width="78" height="40" as="geometry" />
+          <mxGeometry x="131" y="420" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-8" value="Opensense" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569" y="420" width="70" height="30" as="geometry" />
+          <mxGeometry x="61" y="425" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-9" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="370" width="50" height="30" as="geometry" />
+          <mxGeometry x="80" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC5E4xKrVCi0A6rrJ-Is-1" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="240" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
