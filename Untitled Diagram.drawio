@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T22:59:33.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="eTJloQNAm68hG2xC-Sc7" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-23T22:59:53.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="SdzkXbwi_c5PeXs1S5lV" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1633,7 +1633,7 @@
           <mxGeometry x="131" y="370" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-6" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="321" y="415" width="78" height="40" as="geometry" />
+          <mxGeometry x="131" y="420" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-8" value="Opensense" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="425" width="70" height="30" as="geometry" />
