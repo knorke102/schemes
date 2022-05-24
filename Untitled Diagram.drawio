@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T22:29:09.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="wreq82DLOH_oMCmLPHAS" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-23T22:49:34.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="LeWP88pvpVmcsuImGr9o" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1638,7 +1638,7 @@
         <mxCell id="0MnLnCfNHMBmKRLeDBoI-8" value="Opensense" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="425" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0MnLnCfNHMBmKRLeDBoI-9" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0MnLnCfNHMBmKRLeDBoI-9" value="VLAN 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZC5E4xKrVCi0A6rrJ-Is-1" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="1">
