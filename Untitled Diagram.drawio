@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T23:03:09.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="4gxDIGfT7xIRKQZgWLc0" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-23T23:03:37.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="pmt2rjtScBqv74vcKrqk" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1709,16 +1709,16 @@
         <mxCell id="coLXJWwWkwuDFtRaaJJY-18" value="VLAN 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coLXJWwWkwuDFtRaaJJY-30" value="VLAN 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="coLXJWwWkwuDFtRaaJJY-30" value="VLAN 30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coLXJWwWkwuDFtRaaJJY-31" value="VLAN 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="coLXJWwWkwuDFtRaaJJY-31" value="VLAN 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coLXJWwWkwuDFtRaaJJY-32" value="VLAN 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="coLXJWwWkwuDFtRaaJJY-32" value="VLAN 20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="coLXJWwWkwuDFtRaaJJY-33" value="VLAN 50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="coLXJWwWkwuDFtRaaJJY-33" value="VLAN 40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
