@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T10:42:09.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="osyRtRAeMXGzMrTsn0aO" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-27T10:42:23.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="u0FSvaVY6MmpOPLnDFzo" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -695,7 +695,7 @@
           <mxGeometry x="425" y="501" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OCdZ4c_l0bAu0m2okaV4-24" value="Рабочие станции студентов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="976" y="348" width="250" height="30" as="geometry" />
+          <mxGeometry x="873" y="352" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xihxm5p7jtMpLWEHxHym-2" value="192.168.0.3" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="51" width="105" height="28" as="geometry" />
@@ -723,6 +723,9 @@
         </mxCell>
         <mxCell id="xihxm5p7jtMpLWEHxHym-10" value="192.168.0.1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="162" y="145" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="xihxm5p7jtMpLWEHxHym-11" value="192.168.0.10" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="446.5" width="115" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
