@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T10:42:23.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="u0FSvaVY6MmpOPLnDFzo" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-27T10:42:33.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="zPTXxoRXcn_pEbs-llQP" version="18.1.1" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
           <mxGeometry x="130" y="242.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nn5RQlBrx_UWvgxj7Ebh-21" value="Рабочие станции студентов" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="466" width="250" height="30" as="geometry" />
+          <mxGeometry x="470" y="21" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nn5RQlBrx_UWvgxj7Ebh-22" value="Контролер&lt;br&gt;Домена" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="335" width="110" height="50" as="geometry" />
