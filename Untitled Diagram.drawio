@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T10:43:01.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="5v6YeqRw5f0cMfMPuOBF" version="18.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-28T07:25:01.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1814 Yowser/2.5 Safari/537.36" etag="jlFj5lNG4qefr288KX7h" version="18.1.3" type="github" pages="16">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="IQugytaPhW9aopmuyk94-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="3AY6vLjtcTXczfh1wmjY-1" source="3AY6vLjtcTXczfh1wmjY-6" target="3AY6vLjtcTXczfh1wmjY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3AY6vLjtcTXczfh1wmjY-6" value="Отдел по метадической работе" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
+        <mxCell id="3AY6vLjtcTXczfh1wmjY-6" value="Отдел по методической работе" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
           <mxGeometry x="287" y="424" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IQugytaPhW9aopmuyk94-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="3AY6vLjtcTXczfh1wmjY-1" source="3AY6vLjtcTXczfh1wmjY-7" target="3AY6vLjtcTXczfh1wmjY-8" edge="1">
@@ -198,10 +198,10 @@
         <mxCell id="IQugytaPhW9aopmuyk94-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="3AY6vLjtcTXczfh1wmjY-1" source="3AY6vLjtcTXczfh1wmjY-7" target="3AY6vLjtcTXczfh1wmjY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3AY6vLjtcTXczfh1wmjY-7" value="Отдел по развития и иноваций" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
+        <mxCell id="3AY6vLjtcTXczfh1wmjY-7" value="Отдел по развития и инноваций" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
           <mxGeometry x="447" y="424" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3AY6vLjtcTXczfh1wmjY-8" value="Отдел дополниительного образования" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
+        <mxCell id="3AY6vLjtcTXczfh1wmjY-8" value="Отдел дополнительного образования" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
           <mxGeometry x="447" y="544" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3AY6vLjtcTXczfh1wmjY-9" value="5000 мастерских" style="rounded=0;whiteSpace=wrap;html=1;" parent="3AY6vLjtcTXczfh1wmjY-1" vertex="1">
