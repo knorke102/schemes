@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T01:08:29.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="CUU89wy9Zhr9lvqjkMVL" version="18.1.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-05-31T01:08:48.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="m5rXWvZxd4G0LRAqZYLy" version="18.1.3" type="github" pages="17">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1472,9 +1472,6 @@
         <mxCell id="4ErOI3XYGRyesMDKJtMu-17" value="VLAN 10" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="520" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ErOI3XYGRyesMDKJtMu-21" value="VLAN 60" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="640" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="4ErOI3XYGRyesMDKJtMu-28" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1440" y="440" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1559,6 +1556,9 @@
         </mxCell>
         <mxCell id="gO8Z8uTh6dF1cHKQUGrr-1" value="VLAN 20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="419" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gO8Z8uTh6dF1cHKQUGrr-3" value="VLAN 20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
