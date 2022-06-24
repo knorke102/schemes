@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T07:29:06.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Gg3jJhzu0ap0rcbHhk18" version="20.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-24T07:29:32.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Tf1r-I3MsfHjJdq7whe6" version="20.0.3" type="github" pages="10">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1159,6 +1159,15 @@
         </mxCell>
         <mxCell id="nL7DdcJasbtOhzRjQ5uk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="nL7DdcJasbtOhzRjQ5uk-31" target="nL7DdcJasbtOhzRjQ5uk-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmWatNkSUABWpBOGUkub-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="nL7DdcJasbtOhzRjQ5uk-31" target="WQ6zJUxUwFgRDrmVzcBq-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+              <mxPoint x="560" y="60" />
+              <mxPoint x="271" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nL7DdcJasbtOhzRjQ5uk-31" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="380" y="440" width="160" height="40" as="geometry" />
