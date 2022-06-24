@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T07:42:04.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="yZYX7WapsFsj4cybUxhg" version="20.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-24T07:42:39.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1ITd-3-gfOBbIe7GVCM0" version="20.0.3" type="github" pages="10">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1002,7 +1002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="zoopark" id="NN6svieegvJG6nb3pJIH">
-    <mxGraphModel dx="2947" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2666" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WQ6zJUxUwFgRDrmVzcBq-0" />
         <mxCell id="WQ6zJUxUwFgRDrmVzcBq-1" parent="WQ6zJUxUwFgRDrmVzcBq-0" />
@@ -1031,6 +1031,22 @@
         </mxCell>
         <mxCell id="WQ6zJUxUwFgRDrmVzcBq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="WQ6zJUxUwFgRDrmVzcBq-10" target="WQ6zJUxUwFgRDrmVzcBq-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="WQ6zJUxUwFgRDrmVzcBq-10" target="vm16YK44oJi_Qf8WF7Tp-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="195" />
+              <mxPoint x="-310" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="WQ6zJUxUwFgRDrmVzcBq-10" target="vm16YK44oJi_Qf8WF7Tp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-310" y="195" />
+              <mxPoint x="-310" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WQ6zJUxUwFgRDrmVzcBq-10" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" parent="WQ6zJUxUwFgRDrmVzcBq-1" vertex="1">
           <mxGeometry x="-739" y="180" width="160" height="30" as="geometry" />
