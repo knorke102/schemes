@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T07:42:39.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1ITd-3-gfOBbIe7GVCM0" version="20.0.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-24T07:43:43.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ggmT0JGkdZX-v919OiK5" version="20.0.3" type="github" pages="10">
   <diagram id="h8eLWxF4w_RQExaypNg5" name="Эмиль (Общая схема своей сети)">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1527,7 +1527,7 @@
           <mxGeometry x="-80" y="990" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qmWatNkSUABWpBOGUkub-93" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
-          <mxGeometry x="-30" y="950" width="60" height="30" as="geometry" />
+          <mxGeometry x="-150" y="995" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qmWatNkSUABWpBOGUkub-94" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="-280" y="1070" width="80" height="80" as="geometry" />
@@ -1734,9 +1734,6 @@
         <mxCell id="qmWatNkSUABWpBOGUkub-166" value="" style="shape=mxgraph.cisco.hubs_and_gateways.small_hub;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="580" y="990" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qmWatNkSUABWpBOGUkub-167" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
-          <mxGeometry x="630" y="950" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qmWatNkSUABWpBOGUkub-168" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="380" y="1070" width="80" height="80" as="geometry" />
         </mxCell>
@@ -1894,23 +1891,38 @@
         <mxCell id="qmWatNkSUABWpBOGUkub-197" value="VLAN 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="500" y="1150" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="vm16YK44oJi_Qf8WF7Tp-0" target="qmWatNkSUABWpBOGUkub-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-0" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="-290" y="530" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="WQ6zJUxUwFgRDrmVzcBq-1" source="vm16YK44oJi_Qf8WF7Tp-1" target="qmWatNkSUABWpBOGUkub-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-1" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="-290" y="570" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-2" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
-          <mxGeometry x="-130" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="-240" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-3" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
-          <mxGeometry x="-130" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="-240" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-4" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="-570" y="440" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vm16YK44oJi_Qf8WF7Tp-5" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="-660" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-9" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
+          <mxGeometry x="-210" y="995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-10" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
+          <mxGeometry x="510" y="995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vm16YK44oJi_Qf8WF7Tp-11" value="VLAN 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
+          <mxGeometry x="450" y="995" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
