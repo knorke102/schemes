@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T11:03:23.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.684 Yowser/2.5 Safari/537.36" etag="sBw6MTNbJPXCn5eIwvOd" version="20.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-26T11:04:09.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.684 Yowser/2.5 Safari/537.36" etag="Edat9cZ1R7ztGQybQz7X" version="20.0.1" type="github" pages="4">
   <diagram id="x4ZZpqSOV8TmcjcXQ8ll" name="308">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1440,7 +1440,7 @@
         <mxCell id="JqiePsJtSWKBTMCCakV0-26" value="cs.it.ukrtb.ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="160" y="960" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqiePsJtSWKBTMCCakV0-27" value="cp.it.ukrtb.ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
+        <mxCell id="JqiePsJtSWKBTMCCakV0-27" value="is.it.ukrtb.ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQ6zJUxUwFgRDrmVzcBq-1">
           <mxGeometry x="820" y="960" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
