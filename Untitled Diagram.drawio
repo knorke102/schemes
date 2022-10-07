@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T11:09:47.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.787 Yowser/2.5 Safari/537.36" etag="qYp3T8qL7LWjVm0T7rYw" version="20.4.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-07T11:13:39.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.3.787 Yowser/2.5 Safari/537.36" etag="dVx6G3YlAoD-u5NNj-zG" version="20.4.0" type="github" pages="6">
   <diagram id="x4ZZpqSOV8TmcjcXQ8ll" name="308">
     <mxGraphModel dx="1374" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1578,8 +1578,8 @@
         <mxCell id="-Ot2c-ebhjrCrDHwHHES-4" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;" parent="0w55Ot9ll7KbU6rwqELl-1" vertex="1">
           <mxGeometry x="330.5" y="258" width="80" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="-Ot2c-ebhjrCrDHwHHES-5" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;PC 2&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" parent="0w55Ot9ll7KbU6rwqELl-1" vertex="1">
-          <mxGeometry x="339" y="339" width="57" height="36" as="geometry" />
+        <mxCell id="-Ot2c-ebhjrCrDHwHHES-5" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;SGA&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;rounded=0;" parent="0w55Ot9ll7KbU6rwqELl-1" vertex="1">
+          <mxGeometry x="339" y="339" width="58" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-Ot2c-ebhjrCrDHwHHES-8" value="NAT&lt;br&gt;VM1" style="rounded=0;whiteSpace=wrap;html=1;" parent="0w55Ot9ll7KbU6rwqELl-1" vertex="1">
           <mxGeometry x="156.5" y="205" width="80" height="41" as="geometry" />
