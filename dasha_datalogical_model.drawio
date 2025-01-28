@@ -83,6 +83,12 @@
         <mxCell id="dHyyiTCX3lgh8h5yhS4M-5" value="id_player" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" vertex="1" connectable="0" parent="dHyyiTCX3lgh8h5yhS4M-4">
           <mxGeometry x="501" y="43" as="geometry" />
         </mxCell>
+        <mxCell id="dHyyiTCX3lgh8h5yhS4M-6" value="id_coach" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="511" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="dHyyiTCX3lgh8h5yhS4M-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1:n&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="-280" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
